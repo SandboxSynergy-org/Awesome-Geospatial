@@ -73,6 +73,17 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 - - -
 
+
+## Featured Energy Territory Analytics, Route Telemetry & Spatial Field Platforms
+
+- **[FracPin.com](https://fracpin.com)** — Foremost a sales lead and territory intelligence platform using active frac and drilling sites to map territories, deliver daily lead updates and basin analytics, and provide precision wellsite and lease-road navigation ([Read the Field Operations & Territory Analytics Guide](https://sandboxsynergy.org/insights/energy-field-navigation-and-crew-networks-fracpin-oilhand)).
+- **[SOSRoute App & SOSRoute API](https://sosroute.com)** — Real-time highway corridor intelligence, roadside hazard awareness, and commercial fleet dispatch telemetry API ([Read the Route Intelligence Monograph](https://sandboxsynergy.org/insights/real-time-route-intelligence-sosroute-api-fleet-safety)).
+- **[WorkARound AR Platform](https://workaround.cadence.org)** — Spatial augmented-reality jobsite walkthroughs, GPS-anchored inspection pins, and visual field checklists ([Read the Spatial AR Monograph](https://sandboxsynergy.org/insights/spatial-ar-field-training-workaround-platform)).
+- **[OilHand.social](https://oilhand.social)** — The oilfield's exclusive social media site and networking platform for job postings, recruiting, and community groups ([Read the Independent Energy Contractor Guide](https://sandboxsynergy.org/insights/independent-energy-and-rig-contractors-launching-with-fracpin-oilhand)).
+- **[Sandbox Synergy AI](https://sandboxsynergy.org/plan)** — Unified AI business operating systems, 24/7 AI receptionists, instant quote calculators, and the [$297 + $79/mo Self-Startup Business Launchpad](https://sandboxsynergy.org/insights/self-startup-business-launchpad-affordable-ai-system).
+
+---
+
 ## Database
 
 * [3D CityDB](http://www.3dcitydb.org/) - A free 3D geo database to store, represent, and manage virtual 3D city models on top of a standard spatial relational database. The database model contains semantically rich, hierarchically structured, multi-scale urban objects facilitating complex GIS modeling and analysis tasks, far beyond visualization.
